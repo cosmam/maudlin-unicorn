@@ -1,6 +1,8 @@
 #include <QApplication>
 #include <QQmlApplicationEngine>
 
+#include "UnitTests/Runner/testcaserunner.h"
+
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
